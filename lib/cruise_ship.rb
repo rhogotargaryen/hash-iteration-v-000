@@ -14,4 +14,5 @@ def select_winner(passengers)
     return winner
     end
   end
+  puts "No winner today, Sorry!"
 end
